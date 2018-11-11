@@ -1,6 +1,6 @@
-token=
-owner=
-prefix=
-game=
+token=NTExMjg2Mzg4MTY0MDAxODQx.DsotDg.xZJ15bGZQLfLBNo925P7jfxztbc
+owner=506006290149933056
+prefix=1
+game=Type 1Play
 stayinchannel=true
 songinstatus=false
